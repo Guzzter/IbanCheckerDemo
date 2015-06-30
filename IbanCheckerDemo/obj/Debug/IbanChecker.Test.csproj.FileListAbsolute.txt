@@ -1,0 +1,13 @@
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\bin\Debug\IbanCheckerDemo.dll
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\bin\Debug\IbanCheckerDemo.pdb
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\obj\Debug\IbanChecker.Test.csprojResolveAssemblyReference.cache
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\obj\Debug\IbanCheckerDemo.dll
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\obj\Debug\IbanCheckerDemo.pdb
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\bin\Debug\IbanChecker.dll
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\bin\Debug\IbanChecker.pdb
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\bin\Debug\FluentAssertions.Core.dll
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\bin\Debug\FluentAssertions.dll
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\bin\Debug\FluentAssertions.pdb
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\bin\Debug\FluentAssertions.xml
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\bin\Debug\FluentAssertions.Core.pdb
+C:\stash\IbanCheckerDemo\IbanCheckerDemo\bin\Debug\FluentAssertions.Core.xml
