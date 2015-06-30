@@ -1,5 +1,0 @@
-C:\stash\IbanCheckerDemo\IbanChecker\bin\Debug\IbanChecker.dll
-C:\stash\IbanCheckerDemo\IbanChecker\bin\Debug\IbanChecker.pdb
-C:\stash\IbanCheckerDemo\IbanChecker\obj\Debug\IbanChecker.csprojResolveAssemblyReference.cache
-C:\stash\IbanCheckerDemo\IbanChecker\obj\Debug\IbanChecker.dll
-C:\stash\IbanCheckerDemo\IbanChecker\obj\Debug\IbanChecker.pdb
